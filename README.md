@@ -1,8 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jooeys">
+
 ### Hi there 👋 
 - 🌱 I am an Artificial Intelligence Enthusiast
 - 🌱 I’m currently practicing machine learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jooeys">
+
 Research interests on:
 
  - Artificial Intelligence and Semantic Web
