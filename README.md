@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jooeys">
-
 
 These are what I've built since 2025。12:
 
